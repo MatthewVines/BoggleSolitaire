@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boggle", "Boggle.csproj", "{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Debug|x86.ActiveCfg = Debug|x86
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Debug|x86.Build.0 = Debug|x86
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Release|x86.ActiveCfg = Release|x86
+		{3FEA4E84-D1F1-4838-905D-2F81CDF3CBC7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
